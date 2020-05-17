@@ -5,11 +5,7 @@ k2
 │   ├── daily_sales.csv
 │   └── test.txt
 ├── img
-│   ├── background
-│   │   ├── cherry.png
-│   │   ├── heart_tree.png
-│   │   └── tuchikabe.png
-│   ├── default.jpg
+│   ├── default.jpg
 │   └── fav_flog.png
 ├── inc
 │   ├── config.php
@@ -27,7 +23,6 @@ k2
 │   ├── index_add.php
 │   ├── index_ajax.php
 │   ├── item.php
-│   ├── item_reset.php
 │   ├── login.php
 │   ├── mail.php
 │   ├── mail_sent.php
